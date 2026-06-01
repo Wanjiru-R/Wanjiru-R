@@ -13,7 +13,7 @@
 ##Backend <-
     Node.js
     Express.js
-    Next.js
+    REST API
     Django
     flask
     Fast Api
