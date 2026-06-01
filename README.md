@@ -11,3 +11,15 @@ About me
 - ⚡ Fun facts:[
 -         - love learning through existing projects]
 -->
+##Frontend [
+  React,Tailwind css
+  ]
+  ##Backend <-
+    Node.js
+    Express.js
+    Next.js
+    Django
+    flask
+    Fast Api
+    ../>
+
