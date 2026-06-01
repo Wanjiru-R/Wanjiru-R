@@ -1,25 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Risper 👋
 
-<!--
-Hi I am Risper Wanjiru
-
-About me
---->I am a passionate Full Stack developer and enjoy building real world projects and open applications.
-
+🎓 BCS Student at Meru University of Science and Technology  
+💻 Passionate about Web Development,Cybersecurity  and data science 
+🌍 Based in Kenya  
 - 🌱 I’m currently learning React, tailwind css ....
 
-- ⚡ Fun facts:[
--         - love learning through existing projects]
--->
+- 
+## 🛠 Skills
 ##Frontend [
   React,Tailwind css
   ]
-  ##Backend <-
+##Backend <-
     Node.js
     Express.js
     Next.js
     Django
     flask
     Fast Api
-    ../>
+## 📫 Contact
+- Email:Wrisper242@gmail.com
+
+- ⚡ Fun facts:[
+-         - love learning through existing projects]
+-->
 
