@@ -7,16 +7,7 @@
 
 - 
 ## 🛠 Skills
-##Frontend [
-  React,Tailwind css
-  ]
-##Backend <-
-    Node.js
-    Express.js
-    REST API
-    Django
-    flask
-    Fast Api
+React|MERN stack|Django|FAST API
 ## 📫 Contact
 - Email:Wrisper242@gmail.com
 
