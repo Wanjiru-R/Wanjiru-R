@@ -2,6 +2,7 @@
 
 🎓 BCS Student at Meru University of Science and Technology  
 💻 Passionate about web designing, software Development,Cybersecurity  and data science 
+<br>
 🌍 Based in Kenya  
 
 
