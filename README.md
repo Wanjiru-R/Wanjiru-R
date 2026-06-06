@@ -7,7 +7,7 @@
 
 - 
 ## 🛠 Skills
-React|MERN stack|Django|FAST API
+React|MERN stack|Django|FAST API|Bootstrap|python
 ## 📫 Contact
 - Email:Wrisper242@gmail.com
 
