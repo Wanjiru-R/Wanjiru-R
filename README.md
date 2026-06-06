@@ -11,6 +11,7 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
 <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="40"></img>
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="40"></img>
