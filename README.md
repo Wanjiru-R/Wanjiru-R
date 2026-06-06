@@ -17,8 +17,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg"  width="40"/>
 <img src="https://devicon-website.vercel.app/api/figma/original.svg" width="40"></img>
-</p>
-## 📫 
+</p> 
+📫 
 Email:Wrisper242@gmail.com
 <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="40"></img>
 
