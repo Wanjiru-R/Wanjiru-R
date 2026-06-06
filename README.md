@@ -1,4 +1,4 @@
-# Hi there, I'm Risper 👋
+ Hi , I'm Risper 👋
 
 🎓 BCS Student at Meru University of Science and Technology  
 💻 Passionate about web designing, Web Development,Cybersecurity  and data science 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React, tailwind css ....
 
 - 
-## 🛠 tech stack
+ 🛠 tech stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
 <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="40"></img>
