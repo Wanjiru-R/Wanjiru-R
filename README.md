@@ -7,7 +7,8 @@
 
 - 
 ## 🛠 tech stack
-https://img.shields.io/pypi/pyversions/:packageName
+![PyPI - Version](https://img.shields.io/pypi/v/:packageName)
+
 
 ## 📫 Contact
 - Email:Wrisper242@gmail.com
