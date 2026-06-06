@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning React, tailwind css ....
 
 - 
-## 🛠 Skills
-React|MERN stack|Django|FAST API|Bootstrap|python
+## 🛠 tech stack
+https://img.shields.io/pypi/pyversions/:packageName
+
 ## 📫 Contact
 - Email:Wrisper242@gmail.com
 
