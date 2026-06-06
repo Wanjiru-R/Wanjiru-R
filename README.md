@@ -1,9 +1,9 @@
  Hi , I'm Risper 👋
 
 🎓 BCS Student at Meru University of Science and Technology  
-💻 Passionate about web designing, Web Development,Cybersecurity  and data science 
+💻 Passionate about web designing, software Development,Cybersecurity  and data science 
 🌍 Based in Kenya  
-- 🌱 I’m currently backend...
+
 
 - 
  🛠 tech stack
