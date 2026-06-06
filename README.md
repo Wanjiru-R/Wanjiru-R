@@ -7,8 +7,7 @@
 
 - 
 ## 🛠 tech stack
-![PyPI - Version](https://img.shields.io/pypi/v/:packageName)
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## 📫 Contact
 - Email:Wrisper242@gmail.com
