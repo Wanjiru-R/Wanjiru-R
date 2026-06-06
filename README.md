@@ -3,7 +3,7 @@
 🎓 BCS Student at Meru University of Science and Technology  
 💻 Passionate about web designing, Web Development,Cybersecurity  and data science 
 🌍 Based in Kenya  
-- 🌱 I’m currently learning React, tailwind css ....
+- 🌱 I’m currently backend...
 
 - 
  🛠 tech stack
@@ -17,6 +17,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg"  width="40"/>
 <img src="https://devicon-website.vercel.app/api/figma/original.svg" width="40"></img>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+
+
 </p> 
 📫 
 Email:Wrisper242@gmail.com
