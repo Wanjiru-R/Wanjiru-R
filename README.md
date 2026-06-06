@@ -15,11 +15,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg"  width="40"/>
+<img src="https://devicon-website.vercel.app/api/figma/original.svg" width="40"></img>
 </p>
 ## 📫 Contact
 - Email:Wrisper242@gmail.com
 
-- ⚡ Fun facts:[
--         - love learning through existing projects]
--->
+
 
