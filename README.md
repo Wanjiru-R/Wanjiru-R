@@ -26,7 +26,7 @@
 
 </p> 
 📫 <br>
-<b><Email:</<br>
+<b><Email:</b><br>
 Wrisper242@gmail.com
 <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="40"></img> 
 
