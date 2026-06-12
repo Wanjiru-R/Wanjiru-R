@@ -29,7 +29,3 @@
 Email:<br>
 <a href="#">Wrisper242@gmail.com</a>
 <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="40"></img> 
-
-## Contribution Snake
-
-![Snake animation](https://github.com/Wajiru-R/Wanjiru-R/blob/output/github-contribution-grid-snake.svg)
