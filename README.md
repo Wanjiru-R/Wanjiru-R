@@ -32,4 +32,4 @@ Email:<br>
 
 ## Contribution Snake
 
-![Snake animation](https://github.com/wajiru-R/wanjiru-R/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Wajiru-R/Wanjiru-R/blob/output/github-contribution-grid-snake.svg)W
