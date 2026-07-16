@@ -21,7 +21,7 @@
 <img src="https://devicon-website.vercel.app/api/figma/original.svg" width="40"></img>
 <img src="https://devicon-website.vercel.app/api/git/plain.svg" width="40"></img>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wanjiru-R&show_icons=true&theme=tokyonight)
+
 ## `$ git log --stats` 📊
 
 <div align="center">
