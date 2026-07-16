@@ -37,17 +37,18 @@
 <tr>
 <td width="33%">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lewiii254&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+<img src="https:
+ //github-readme-stats-fast.vercel.app/api/top-langs/?username=Wanjiru-Rlayout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lewiii254&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wanjiru-R&theme=transparent" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lewiii254&theme=transparent&utc_offset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wanjiru-R&theme=transparent&utc_offset=5.5" />
 
 </td>
 </tr>
