@@ -1,5 +1,5 @@
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Risper+Wanjiru+%7C+software+engineer;+%2F+Devops%7C;Solving+real+world+projects+%F0%9F%8C%8D;cloud+%7C+Gitops+%7C;+Meru+University+kenya+%7c)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Risper+Wanjiru+%7C+software+engineer;+%2F+Devops%7C;Solving+real+world+problems+%F0%9F%8C%8D;cloud+%7C+Gitops+%7C;+Meru+University+kenya+%7c)](https://git.io/typing-svg)
 
 
  
